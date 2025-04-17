@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagExplorerAPI", "FlagExplorerAPI\FlagExplorerAPI.csproj", "{8CA08831-AB82-45E1-9616-BB3C8F5E1C7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8251BFCC-ED75-4BAA-A903-7E01CA9E0807}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{04A32D27-F6FF-4286-BB96-018892D1D23C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagExplorerAPI.Tests", "FlagExplorerAPI.Tests\FlagExplorerAPI.Tests.csproj", "{22820100-1329-49C7-B3BE-5F9C339E7C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA08831-AB82-45E1-9616-BB3C8F5E1C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA08831-AB82-45E1-9616-BB3C8F5E1C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA08831-AB82-45E1-9616-BB3C8F5E1C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA08831-AB82-45E1-9616-BB3C8F5E1C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22820100-1329-49C7-B3BE-5F9C339E7C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22820100-1329-49C7-B3BE-5F9C339E7C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22820100-1329-49C7-B3BE-5F9C339E7C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22820100-1329-49C7-B3BE-5F9C339E7C19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E5FA0C4-6839-448E-B067-D6525C30161B}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8CA08831-AB82-45E1-9616-BB3C8F5E1C7F} = {8251BFCC-ED75-4BAA-A903-7E01CA9E0807}
+		{22820100-1329-49C7-B3BE-5F9C339E7C19} = {04A32D27-F6FF-4286-BB96-018892D1D23C}
+	EndGlobalSection
+EndGlobal
