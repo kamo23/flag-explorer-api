@@ -1,7 +1,7 @@
 
 ---
 
-### 📁 `flag-explorer-api/README.md`
+### 📁 `flag-explorer-api`
 
 ```md
 # 🧠 Flag Explorer Api
